@@ -15,7 +15,7 @@ A pagina apresenta responsividade e se adequa a telas de 420px à 1728px, intera
 
 🔧 Tecnologias utilizadas
 Durante o desenvolvimento utilizei as linguagens HTML5, CSS3.
-Utilizei as funções @import e @media screen, para importação de arquivos dentro do CSS e para tornar a página responsiva, sucessivamente. Também utilizei a ferramenta Flex Box e CSS Grid para o posicionamento dos elementos.
+Utilizei as funções @import e @media screen, para importação de arquivos dentro do CSS e para tornar a página responsiva, sucessivamente. Também utilizei a ferramenta Flex Box e CSS Grid para o posicionamento dos elementos, e a criação de variáveis CSS para facilitar a manutenção do código.
 O design foi disponibilizado através do Figma, de onde importei as imagens e obtive todas as informações para customização da página.
  
 
